@@ -103,4 +103,4 @@ This repository is a New York City public policy prioritization study where we a
  
  - With the data shown for New York City it is clearly possible to see a greater focus on areas that are not as well appreciated as the island of Manhattan, especially the borough of the Bronx where there are worrying indications of coliforms and drinking water quality.
  
- - The details of the study, with more information on how we do data collection, processing and additional insights (Forecasting, random forest) are available in the notebook.
+ - The details of the study, with more information on how we do data collection, processing and additional insights (Forecasting, random forest) are available in the [notebook](https://github.com/alexandreganz/New-York-Water-Complaints/blob/main/FinalProject.ipynb).
